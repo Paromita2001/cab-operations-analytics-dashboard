@@ -147,7 +147,7 @@ The dataset contains the following fields:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Avadhoot0770/cab-operations-analytics-dashboard.git
+git clone https://github.com/Paromita2001/cab-operations-analytics-dashboard.git
 ```
 
 Move into the project directory:
@@ -173,13 +173,11 @@ python data_generator.py
 
 ## 👨‍💻 Author
 
-**Avadhoot Dutt**
+**Paromita Karmakar**
 
-B.Tech Computer Science Engineering (2027)
+Manipal Academy Of Higher Education (2026)
 
-KL University, Andhra Pradesh
+GitHub: https://github.com/Paromita2001
 
-GitHub: https://github.com/Avadhoot0770
-
-Linkedln : https://www.linkedin.com/in/avadhootdutt07/
+Linkedln : https://www.linkedin.com/in/paromita-karmakar-11404724a/
 
